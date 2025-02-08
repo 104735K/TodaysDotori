@@ -31,7 +31,7 @@
 - Front : HTML/CSS, JavaScript, Bootstrap
 - Tooling/ DevOps : Intellij IDEA, GitHub, Docker, Postman ..
 - Environment : MacOS
-- ETC : Figma, Slack
+- Etc : Figma, Slack
 
 ## 💡 FEATURE
 > <h3>강성현 주요 기능</h3>
